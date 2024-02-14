@@ -1,2 +1,0 @@
-# leetcode-playground
-leetcode practice
